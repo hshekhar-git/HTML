@@ -1,0 +1,44 @@
+#leftside {
+    margin-top: 12px;
+    height: auto;
+    text-align: left;
+    padding: 50px 90px 0px 100px;
+    /*top right bottom left*/
+    /*
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-right-color: F26522;
+    */
+
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: b7b8bb;
+
+    /*to make it not scroll
+    z-index: 0;
+    position: fixed;
+    top: 50px;
+    left:15px;*/
+}
+
+#rightside {
+    margin-top: 12px;
+    height: auto;
+    background: #FCF;
+    text-align: left;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: b7b8bb;
+
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: F26522;
+
+    /*
+    z-index: 0;
+    position: absolute;
+    right: 0px;*/
+
+}
